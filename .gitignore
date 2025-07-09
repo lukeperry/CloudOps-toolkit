@@ -1,0 +1,96 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Terraform
+*.tfstate
+*.tfstate.*
+*.terraform.lock.hcl
+.terraform/
+terraform.tfvars
+
+# AWS
+.aws/
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+test_*.py  # temporary test files
+
+# Security
+secrets.toml
+.secrets
+# aws-iam-policy.json  # Uncomment if you want to keep IAM policy private
+# AWS_IAM_SECURITY.md  # Uncomment if you want to keep security docs private
+
+# Project specific
+PROJECT_CONTEXT.md
+lambda_function.zip
+terraform/tfplan  # terraform plan files
+terraform/.terraform/  # terraform state
