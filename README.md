@@ -125,7 +125,7 @@ This project requires specific AWS managed policies to function properly. Attach
 ## 🚀 Running the Dashboard
 
 ```bash
-streamlit run run_dashboard.py
+streamlit run_dashboard.py
 ```
 
 ## 🎯 Portfolio Highlights
