@@ -55,7 +55,7 @@ cp .env.example .env
 
 5. Run the dashboard:
 ```bash
-streamlit run run_dashboard.py
+streamlit run_dashboard.py
 ```
 
 ## 📁 Project Structure
