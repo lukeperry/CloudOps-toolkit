@@ -55,7 +55,7 @@ cp .env.example .env
 
 5. Run the dashboard:
 ```bash
-streamlit run_dashboard.py
+streamlit run app/dashboard.py
 ```
 
 ## 📁 Project Structure
@@ -125,7 +125,7 @@ This project requires specific AWS managed policies to function properly. Attach
 ## 🚀 Running the Dashboard
 
 ```bash
-streamlit run_dashboard.py
+streamlit run app/dashboard.py
 ```
 
 ## 🎯 Portfolio Highlights
